@@ -1,0 +1,10 @@
+{
+  "name": "sha-book-seller",
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
+
+
